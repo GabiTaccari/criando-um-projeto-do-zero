@@ -1,15 +1,5 @@
 # spacetraveling
 
-<p>
-  <img src="https://img.shields.io/badge/made%20by-RAFAEL%20MARTINS-FF57B2?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/spacetraveling?color=FF57B2&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/spacetraveling?color=FF57B2&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-FF57B2?style=flat-square">
-  </a>
-
-</p>
-
 <img align="right" src="public/logo.svg" width="35%" alt="spacetraveling">
 
 ## Tópicos
@@ -50,7 +40,7 @@ Tecnologias e ferramentas utilizadas no desenvolvimento do projeto:
 
 ```bash
 # Abra um terminal e copie este repositório com o comando
-git clone https://github.com/martins-rafael/spacetraveling.git
+git clone https://github.com/GabiTaccari/criando-um-projeto-do-zero.git
 # ou use a opção de download.
 
 # Entre na pasta web com
@@ -77,10 +67,3 @@ yarn dev
 <br>
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](/LICENSE) para mais detalhes.
-
----
-
-Feito com :heart: by [Rafael Martins](https://github.com/martins-rafael)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Rafael%20Martins-FF57B2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaeldcmartins/)](https://www.linkedin.com/in/rafaeldcmartins/)
-[![Gmail Badge](https://img.shields.io/badge/-rafaeldcmartins@gmail.com-FF57B2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeldcmartins@gmail.com)](mailto:rafaeldcmartins@gmail.com)
